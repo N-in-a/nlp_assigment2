@@ -19,5 +19,5 @@ The project uses three text representations:
 The classification models are Logistic Regression models, compared with a majority-class baseline.
 
 ## Files
-- `notebook.ipynb`: Jupyter notebook containing the code and experiments.
-- `report.pdf`: Final project report.
+- `sentiment_classifier.ipynb`: Jupyter notebook containing the code and experiments.
+- `Report sentiment classifier .pdf`: Final project report.
